@@ -1,0 +1,14 @@
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\bin\Debug\net8.0\Task3.exe
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\bin\Debug\net8.0\Task3.dll
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.dll
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Andrew\GB\CS\GeekBrains\Seminar9\Task3\obj\Debug\net8.0\ref\Task3.dll
